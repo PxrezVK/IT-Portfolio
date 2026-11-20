@@ -1,76 +1,87 @@
-# Angel-Perez
-# 👋 Hi, I'm Ángel | PxrezVK
+# 💻 IT Portfolio | PxrezVK
 
-### IT Systems & Networking | SMR Graduate
+**Personal IT Infrastructure, Systems Administration & Networking Portfolio**
 
-I'm an IT enthusiast and graduate in **Microcomputer Systems and Networks (SMR)**, interested in IT infrastructure, systems administration, networking and cybersecurity.
+Welcome to my technical portfolio. This repository documents my learning journey, practical laboratories and projects related to IT infrastructure and systems administration.
 
-I'm currently expanding my technical knowledge through certifications, hands-on laboratories and personal projects.
+My goal is to develop practical skills through hands-on exercises, technical documentation and real-world simulations.
 
 ---
 
-## 🖥️ Technical Areas
+## 📂 Technical Areas
 
-- 🌐 **Networking:** TCP/IP, VLAN, DHCP, DNS, Routing & Switching
-- 🪟 **Systems Administration:** Windows Server, Active Directory, Group Policy
-- 🐧 **Linux:** System administration and command-line tools
-- 🔐 **Cybersecurity:** Network security and security fundamentals
-- ☁️ **Cloud Computing:** Microsoft Azure, IBM Cloud
-- 🐳 **DevOps:** Docker and containerization
-- 🛠️ **IT Support:** Troubleshooting and technical support
-
-## 🧰 Technologies & Tools
-
-| Category | Technologies |
+| Area | Topics |
 |---|---|
-| Networking | Cisco Packet Tracer |
-| Operating Systems | Windows, Windows Server, Ubuntu |
-| Virtualization | VirtualBox |
-| Version Control | Git, GitHub |
-| Cloud | Microsoft Azure, IBM Cloud |
-| Containers | Docker |
+| Networking | TCP/IP, VLAN, DHCP, DNS, Routing & Switching |
+| Windows Server | Active Directory, Group Policy, DNS, DHCP |
+| Linux | System Administration, Permissions, Networking |
+| Cybersecurity | Network Security, Security Fundamentals |
+| Cloud Computing | Microsoft Azure, IBM Cloud |
+| DevOps | Docker, Containers |
+| IT Support | Troubleshooting, Technical Support |
 
-## 🧪 Labs & Projects
+---
 
-I'm building a practical IT portfolio focused on real-world infrastructure and systems administration.
+## 🧪 Laboratory Projects
 
-Projects and laboratories will include:
+| Project | Description | Status |
+|---|---|---|
+| Cisco Networking | Network simulations with Packet Tracer | Planned |
+| Windows Server | Server administration laboratories | Planned |
+| Active Directory | Domain, users, groups and policies | Planned |
+| Linux Administration | Linux system administration | Planned |
+| Cybersecurity | Security exercises and laboratories | Planned |
+| Docker | Containerization and deployment | Planned |
 
-- Network infrastructure simulations
-- Windows Server and Active Directory environments
-- Linux administration
-- Cybersecurity exercises
-- Cloud infrastructure
-- Docker and containerization
+---
 
-➡️ Check out my repositories to follow my progress.
+## 🛠️ Tools & Technologies
 
-## 🎓 Education & Certifications
+- Cisco Packet Tracer
+- Windows Server
+- Ubuntu Linux
+- VirtualBox
+- Git & GitHub
+- Docker
+- Microsoft Azure
 
-**Education**
-- CFGM – Microcomputer Systems and Networks (SMR)
+---
 
-**Professional Development**
+## 🎓 Learning & Certifications
+
+Continuous professional development through:
+
 - Cisco Networking Academy
 - Microsoft Learn
 - IBM SkillsBuild
 
-*Certifications and credentials will be added as they are completed.*
-
-## 🎯 Current Goals
-
-- Strengthen my networking and systems administration skills.
-- Develop practical experience through technical laboratories.
-- Build and document professional IT projects.
-- Continue learning about cloud infrastructure and cybersecurity.
+Completed credentials will be documented as they are obtained.
 
 ---
 
-## 📫 Contact
+## 📌 Repository Structure
 
-- **GitHub:** [@PxrezVK](https://github.com/PxrezVK)
-- **LinkedIn:** [Ángel Pérez Rivera](https://www.linkedin.com/in/angel-perez-rivera/)
+```text
+IT-Portfolio/
+├── 01-Networking/
+├── 02-Windows-Server/
+├── 03-Linux/
+├── 04-Cybersecurity/
+├── 05-Cloud/
+├── 06-DevOps/
+├── 07-Helpdesk/
+└── 08-Certifications/
+```
 
 ---
 
-*Always learning. Always building. Always improving.* 🚀
+## 👤 Author
+
+**Ángel | PxrezVK**
+
+- GitHub: https://github.com/PxrezVK
+- LinkedIn: https://www.linkedin.com/in/angel-perez-rivera/
+
+---
+
+*Learning by doing. Documenting every step. Building practical IT skills.* 🚀
